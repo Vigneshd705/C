@@ -1,6 +1,5 @@
  //BINARY SEARCHING
  #include <stdio.h>
- #include <conio.h>
  void main()
  {
  int arr[100];
